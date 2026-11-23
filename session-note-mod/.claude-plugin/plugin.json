@@ -1,0 +1,7 @@
+{
+  "name": "session-note",
+  "version": "0.1.0",
+  "description": "A pane beside the conversation for jotting down what you're working on. Never sent to Claude.",
+  "author": { "name": "Rohin Vaidya" },
+  "types": "./types/index.d.ts"
+}

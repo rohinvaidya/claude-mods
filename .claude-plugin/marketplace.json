@@ -1,0 +1,17 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Rohin Vaidya" },
+  "metadata": { "description": "Small Claude Code mods: a prompt greeting and a private session-note pane." },
+  "plugins": [
+    {
+      "name": "hello-mod",
+      "source": "./hello-mod",
+      "description": "A simple greeting above the Claude Code prompt"
+    },
+    {
+      "name": "session-note",
+      "source": "./session-note-mod",
+      "description": "A pane beside the conversation for jotting down what you're working on. Never sent to Claude."
+    }
+  ]
+}

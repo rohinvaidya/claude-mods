@@ -1,0 +1,6 @@
+{
+  "name": "hello-mod",
+  "version": "0.1.0",
+  "description": "A simple greeting above the Claude Code prompt",
+  "author": { "name": "Rohin Vaidya" }
+}
